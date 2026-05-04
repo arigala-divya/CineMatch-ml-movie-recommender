@@ -1,0 +1,181 @@
+user_id,customer_name,estimated_age,age_group,top_genre,avg_rating,total_ratings
+1,Ben Davis,13,Teens (13-17),Action,4.37,232
+2,James Gray,35,Adults (35+),Drama,3.95,29
+3,Dan Young,26,Young Adults (18-35),Drama,2.44,39
+4,Steve Clark,37,Adults (35+),Drama,3.56,216
+5,Eric Davis,37,Adults (35+),Drama,3.64,44
+6,Leo Gray,34,Adults (35+),Drama,3.49,314
+7,Ruby Brown,21,Young Adults (18-35),Action,3.23,152
+8,Rose Martin,51,Adults (35+),Comedy,3.57,47
+9,Jack Smith,58,Adults (35+),Drama,3.26,46
+10,Joe Hall,47,Adults (35+),Comedy,3.28,140
+11,Steve Green,20,Young Adults (18-35),Action,3.78,64
+12,June Smith,48,Adults (35+),Romance,4.39,32
+13,Nora Hall,31,Young Adults (18-35),Drama,3.65,31
+14,Nick Bell,31,Adults (35+),Drama,3.4,48
+15,Adam Adams,18,Young Adults (18-35),Action,3.45,135
+16,Sara Young,37,Adults (35+),Drama,3.72,98
+17,Lily Baker,24,Young Adults (18-35),Drama,4.21,105
+18,Dan Ross,25,Young Adults (18-35),Drama,3.73,502
+19,John Reed,46,Adults (35+),Comedy,2.61,703
+20,Tom Wood,17,Teens (13-17),Children,3.59,242
+21,Lisa Moore,13,Teens (13-17),Action,3.26,443
+22,Dan Clark,52,Adults (35+),Drama,2.57,119
+23,Scott Reed,41,Adults (35+),Drama,3.65,121
+24,Emily Davis,31,Young Adults (18-35),Action,3.65,110
+25,Joe White,25,Young Adults (18-35),Action,4.81,26
+26,Mike Taylor,32,Young Adults (18-35),Thriller,3.24,21
+27,Amy Cook,17,Teens (13-17),Adventure,3.55,135
+28,Rob Ross,43,Adults (35+),Drama,3.02,570
+29,Jack Gray,60,Adults (35+),Drama,4.14,81
+30,Grace Adams,13,Teens (13-17),Action,4.74,34
+31,Mark Fox,54,Adults (35+),Comedy,3.92,50
+32,Alice Brown,55,Adults (35+),Drama,3.75,102
+33,Nora Hill,40,Adults (35+),Drama,3.79,156
+34,Ben Cook,31,Young Adults (18-35),Action,3.42,86
+35,Anna Baker,40,Adults (35+),Comedy,4.09,23
+36,Sam Wood,43,Adults (35+),Drama,2.63,60
+37,Josh Jones,22,Young Adults (18-35),Thriller,4.14,21
+38,Max Young,36,Adults (35+),Comedy,3.22,78
+39,Sean Hill,15,Teens (13-17),Drama,4.0,100
+40,Joe Price,33,Adults (35+),Drama,3.77,103
+41,Steve Price,37,Adults (35+),Drama,3.25,217
+42,Mike White,42,Adults (35+),Comedy,3.57,440
+43,Dan Lee,13,Teens (13-17),Comedy,4.55,114
+44,Ben Cole,29,Young Adults (18-35),Comedy,3.35,48
+45,Anna Lewis,41,Adults (35+),Comedy,3.88,399
+46,Anna Taylor,26,Young Adults (18-35),Action,4.0,42
+47,Scott Ward,60,Adults (35+),Drama,3.05,140
+48,Dan Wood,19,Young Adults (18-35),Action,4.03,33
+49,Leo Bell,32,Young Adults (18-35),Drama,4.26,21
+50,Josh Cook,47,Adults (35+),Drama,2.78,310
+51,Ben Lewis,33,Adults (35+),Comedy,3.78,359
+52,Ruby Gray,30,Young Adults (18-35),Action,4.48,130
+53,Ryan Lewis,37,Adults (35+),Drama,5.0,20
+54,Grace White,47,Adults (35+),Drama,3.03,33
+55,Dan Fox,44,Adults (35+),Drama,2.84,25
+56,Ben Wood,29,Young Adults (18-35),Action,3.8,46
+57,Nora Young,48,Adults (35+),Comedy,3.39,476
+58,Leo Moore,36,Adults (35+),Drama,3.9,112
+59,Sean Reed,57,Adults (35+),Drama,4.36,107
+60,Jake Young,37,Adults (35+),Drama,3.73,22
+61,Jack Ross,36,Adults (35+),Drama,4.05,39
+62,Emma White,25,Young Adults (18-35),Action,4.08,366
+63,Dan Brown,27,Young Adults (18-35),Comedy,3.63,271
+64,Scott Fox,32,Adults (35+),Drama,3.77,517
+65,Iris Hayes,62,Adults (35+),Drama,4.03,34
+66,Nick Moore,37,Adults (35+),Drama,4.02,345
+67,Scott Bell,21,Young Adults (18-35),Action,3.97,36
+68,Zoe White,42,Adults (35+),Comedy,3.23,1260
+69,Alex Lee,26,Young Adults (18-35),Drama,4.37,46
+70,Luke King,49,Adults (35+),Drama,4.32,62
+71,Matt Young,29,Young Adults (18-35),Action,3.6,35
+72,Eric Adams,23,Young Adults (18-35),Drama,4.16,45
+73,Ruby King,41,Adults (35+),Comedy,3.71,210
+74,Eric Baker,46,Adults (35+),Drama,4.27,177
+75,Lisa Hayes,24,Young Adults (18-35),Action,3.23,69
+76,Rose White,26,Young Adults (18-35),Drama,3.08,119
+77,Anna Young,20,Young Adults (18-35),Action,4.0,29
+78,Matt Green,23,Young Adults (18-35),Action,3.16,61
+79,Zoe Brown,25,Young Adults (18-35),Action,4.2,64
+80,Kyle Jones,23,Young Adults (18-35),Thriller,4.26,167
+81,Mark Clark,32,Young Adults (18-35),Action,2.77,26
+82,Leo Martin,30,Young Adults (18-35),Action,3.38,227
+83,June Brown,26,Young Adults (18-35),Drama,3.31,118
+84,Alice White,50,Adults (35+),Drama,3.69,293
+85,June Lee,57,Adults (35+),Drama,3.71,34
+86,Ella King,17,Teens (13-17),Action,3.93,70
+87,Nora Price,14,Teens (13-17),Drama,3.95,21
+88,John Ward,56,Adults (35+),Drama,4.04,56
+89,Owen Davis,40,Adults (35+),Comedy,3.47,518
+90,Leo Hayes,54,Adults (35+),Drama,4.07,54
+91,Ruby Reed,19,Young Adults (18-35),Action,3.4,575
+92,Dan Reed,14,Teens (13-17),Drama,3.94,24
+93,Alex Moore,13,Teens (13-17),Adventure,4.29,97
+94,Mark Hill,28,Young Adults (18-35),Comedy,3.04,56
+95,Lisa Lewis,30,Young Adults (18-35),Drama,4.06,168
+96,Grace Smith,26,Young Adults (18-35),Action,3.88,78
+97,Owen Hayes,20,Young Adults (18-35),Action,4.19,36
+98,Owen King,14,Teens (13-17),Drama,3.91,92
+99,Eva Reed,28,Young Adults (18-35),Comedy,3.87,53
+100,Tim Green,36,Adults (35+),Comedy,3.95,148
+101,Anna Reed,15,Teens (13-17),Thriller,4.02,166
+102,Zoe Smith,17,Teens (13-17),Thriller,4.8,341
+103,Iris Brown,15,Teens (13-17),Film-Noir,3.1,256
+104,Sean Clark,16,Teens (13-17),Animation,4.94,555
+105,June Martin,16,Teens (13-17),War,2.91,550
+106,Max Bell,17,Teens (13-17),Documentary,4.28,418
+107,Steve Brown,32,Young Adults (18-35),Thriller,3.63,263
+108,John Brown,18,Young Adults (18-35),Western,3.88,235
+109,Emily Brown,55,Adults (35+),Adventure,3.07,42
+110,Ruby Clark,42,Adults (35+),Fantasy,4.17,229
+111,Mia Ross,64,Adults (35+),Western,3.94,258
+112,Amy Martin,24,Young Adults (18-35),Children,2.74,451
+113,Jake White,32,Young Adults (18-35),Adventure,4.18,110
+114,Ruby Lee,45,Adults (35+),Children,3.12,204
+115,Josh Lee,16,Teens (13-17),Crime,3.2,265
+116,Kyle Price,38,Adults (35+),Adventure,4.13,563
+117,Kate Hayes,14,Teens (13-17),Mystery,3.71,228
+118,Rob Fox,14,Teens (13-17),Musical,2.51,409
+119,Max Wood,27,Young Adults (18-35),Mystery,4.24,579
+120,Rose Gray,22,Young Adults (18-35),Documentary,3.24,69
+121,Eva Fox,36,Adults (35+),Horror,2.64,498
+122,Tim Brown,40,Adults (35+),Adventure,4.9,92
+123,Ryan Baker,37,Adults (35+),Drama,3.51,593
+124,Ella Moore,36,Adults (35+),Animation,3.55,588
+125,Matt Ward,24,Young Adults (18-35),Horror,3.1,415
+126,John Lee,44,Adults (35+),Romance,3.29,84
+127,Eva King,53,Adults (35+),Children,2.68,228
+128,Dave Lewis,15,Teens (13-17),Animation,4.7,388
+129,Chris Fox,27,Young Adults (18-35),Thriller,2.52,577
+130,Dave Cook,38,Adults (35+),Comedy,3.16,119
+131,Eva Scott,15,Teens (13-17),Documentary,4.22,280
+132,Emily Reed,19,Young Adults (18-35),Animation,4.09,293
+133,Nick Martin,15,Teens (13-17),Crime,4.35,574
+134,Ruby Jones,35,Adults (35+),Children,2.69,162
+135,Anna Hayes,22,Young Adults (18-35),Mystery,2.82,325
+136,Amy Reed,15,Teens (13-17),Documentary,4.21,115
+137,Ryan Price,63,Adults (35+),Mystery,4.93,168
+138,Sara Ross,14,Teens (13-17),Mystery,2.56,350
+139,Alice Price,62,Adults (35+),Drama,3.17,120
+140,Amy Hill,16,Teens (13-17),Drama,3.0,481
+141,Emily King,14,Teens (13-17),Action,4.15,418
+142,Leo Cole,15,Teens (13-17),IMAX,4.1,419
+143,Tim Baker,45,Adults (35+),Action,2.79,277
+144,Owen Ross,19,Young Adults (18-35),Children,3.99,363
+145,Sam King,31,Young Adults (18-35),Thriller,2.79,600
+146,Eric Gray,16,Teens (13-17),Action,3.8,561
+147,Claire Moore,41,Adults (35+),IMAX,3.58,348
+148,Eva Hill,62,Adults (35+),Children,4.3,317
+149,Nora Clark,48,Adults (35+),Horror,3.51,312
+150,Claire Baker,16,Teens (13-17),Musical,4.19,188
+151,Kate White,8,Kids (5-12),Adventure,3.77,36
+152,Matt Reed,6,Kids (5-12),Fantasy,4.59,72
+153,Leo Wood,6,Kids (5-12),Adventure,4.23,58
+154,Owen Cook,8,Kids (5-12),Fantasy,4.73,32
+155,Luke Lee,7,Kids (5-12),Adventure,4.01,72
+156,Leo Reed,6,Kids (5-12),Comedy,3.97,10
+157,Dan Adams,5,Kids (5-12),Comedy,3.81,73
+158,Joe Lee,8,Kids (5-12),Adventure,4.19,11
+159,Amy Clark,8,Kids (5-12),Children,4.62,61
+160,June Fox,7,Kids (5-12),Adventure,4.49,9
+161,Mark Smith,7,Kids (5-12),Comedy,4.53,58
+162,Joe Fox,11,Kids (5-12),Animation,3.71,5
+163,Alice Moore,7,Kids (5-12),Adventure,4.11,12
+164,Ben Hall,12,Kids (5-12),Fantasy,4.32,21
+165,Amy Wood,12,Kids (5-12),Animation,3.7,24
+166,Mark Davis,6,Kids (5-12),Children,3.94,27
+167,Sara Clark,8,Kids (5-12),Adventure,3.98,68
+168,Rob Davis,10,Kids (5-12),Children,4.52,69
+169,Dave Smith,5,Kids (5-12),Fantasy,3.82,56
+170,Emily Cole,11,Kids (5-12),Comedy,4.12,52
+171,Tim Hayes,5,Kids (5-12),Fantasy,4.58,56
+172,Sean Lee,8,Kids (5-12),Fantasy,4.78,33
+173,Alex Gray,9,Kids (5-12),Animation,4.81,45
+174,Nick Ward,8,Kids (5-12),Comedy,3.94,15
+175,Lily Martin,9,Kids (5-12),Animation,4.25,46
+176,Mia Adams,7,Kids (5-12),Fantasy,4.15,42
+177,Sara Ward,7,Kids (5-12),Fantasy,4.07,61
+178,Sam White,10,Kids (5-12),Children,4.02,50
+179,Adam Hill,8,Kids (5-12),Children,4.68,38
+180,Max Martin,8,Kids (5-12),Comedy,4.79,49
